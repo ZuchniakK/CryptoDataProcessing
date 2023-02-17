@@ -24,10 +24,7 @@ Figure below (right) shows how the sampling process and individual inputs data s
 
 | ![space-1.jpg](figures/time_series_both.png) |
 |:--:|
-| **Left**: One time series can be represented as a set of time series with different time resolution. **Right**: An example of selecting an input sample. For simplicity (and shortening the figure), the length of the time series is 3 for all intervals.
-The end of last time interval for all time series is the same and is t_n.
-The base interval, shown above, determines the base width of the time window,
-and the intervals of the middle and lower time series are its multiples (2 and 4, respectively, hence the number of series with different offsets). |
+| **Left**: One time series can be represented as a set of time series with different time resolution. **Right**: An example of selecting an input sample. For simplicity (and shortening the figure), the length of the time series is 3 for all intervals. The end of last time interval for all time series is the same and is t_n. The base interval, shown above, determines the base width of the time window, and the intervals of the middle and lower time series are its multiples (2 and 4, respectively, hence the number of series with different offsets). |
 
 
 
